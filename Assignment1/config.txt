@@ -1,0 +1,16 @@
+#Number of tables
+3
+
+##Tables
+4,10,10
+
+#Menu
+Beer,ALC,50
+Pumpkin,VEG,35
+Salad,VEG,40
+kaki,SPC,30
+Water,BVG,10
+Wine,ALC,60
+Chili con carne,SPC,200
+pipi,SPC,180
+Cola,BVG,12
